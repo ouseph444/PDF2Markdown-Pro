@@ -20,7 +20,7 @@ Transform PDFs into AI-ready Markdown optimized for ChatGPT, Claude, Gemini, RAG
 Turn complex PDFs into clean, structured, token-efficient Markdown for AI, research, documentation, and knowledge management.
 </p>
 
-🔗 **[Try it Live Here](#)** *(https://ouseph444.github.io/PDF2Markdown-Pro/)*
+🔗 **[Try it Live Here](https://ouseph444.github.io/PDF2Markdown-Pro/)*
 
 ---
 
